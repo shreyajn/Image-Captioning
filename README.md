@@ -1,6 +1,6 @@
 # Image-Captioning
 
-Image Captioning is the process of generating textual description of an image. It requires both methods from computer vision to understand the content of the image and a language model from the field of natural language processing to turn the understanding of the image into words in the right order. Recently, deep learning methods have achieved state-of-the-art results on examples of this problem.
+Image Captioning is the process of generating textual description of an image. It requires both methods from computer vision to understand the content of the image and a language model from the field of natural language processing to turn the understanding of the image into words in the right order. 
 
 ### Dataset
 
